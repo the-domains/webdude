@@ -1,0 +1,28 @@
+name: Webdude
+favicon: null
+layout_spectrum: 0.47592596895992756
+typography_spectrum: 0.6825845038983971
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7600909096654505
+  lightness: 0.24287866801023483
+  saturation: 0.251194761833176
+  rhythmicContrast: 0.06598808895796537
+purpose: []
