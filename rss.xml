@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Webdude]]></title>
         <description><![CDATA[Webdude]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/webdude/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 14:21:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 14:24:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/webdude/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is my Text. Lalala</p>]]></description>
-            <link>undefinedbf9a6e1f-4173-4a9a-8529-f320d70d46aa/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bc87731-f069-40cf-999e-be55ec1b940c.png">]]></description>
+            <link>https://thegrid.ai/webdude/bf9a6e1f-4173-4a9a-8529-f320d70d46aa/index.html</link>
             <guid isPermaLink="false">bf9a6e1f-4173-4a9a-8529-f320d70d46aa</guid>
-            <pubDate>Wed, 20 Jan 2016 14:21:21 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 14:23:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
