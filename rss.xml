@@ -4,8 +4,15 @@
         <description><![CDATA[Webdudes Techblog]]></description>
         <link>https://thegrid.ai/webdude/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 13:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 12:57:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/webdude/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.20min.ch/diashow/159934/3BD5D95EAFCBD6070461AC3836516F72.jpg">]]></description>
+            <link>https://thegrid.ai/webdude/768a5f8f-bd58-44df-9818-3fd2dcd13b3c/index.html</link>
+            <guid isPermaLink="false">768a5f8f-bd58-44df-9818-3fd2dcd13b3c</guid>
+            <pubDate>Sat, 23 Jan 2016 12:57:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colorful]]></title>
             <description><![CDATA[<article><h1>Colorful</h1><p>This is a colorful image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c4736a085cf92fd6319a5e100b3b4cd115070f.jpg"></article>]]></description>
