@@ -4,8 +4,15 @@
         <description><![CDATA[Webdudes Techblog]]></description>
         <link>https://thegrid.ai/webdude/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 07:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 10:44:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/webdude/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mocks Aren't Stubs]]></title>
+            <description><![CDATA[<article><h1>Mocks Aren't Stubs</h1><p>I first came across the term "mock object" a few years ago in the Extreme Programming (XP) community. Since then I've run into mock objects more and more. Partly this is because many of the leading developers of mock objects have been colleagues of mine at ThoughtWorks at various times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79f5cabb2c2552e35482a168fc37b94f05719c74.png"></article>]]></description>
+            <link>http://martinfowler.com/articles/mocksArentStubs.html</link>
+            <guid isPermaLink="false">20dd7e62-e29c-4b74-a524-bccb548f0842</guid>
+            <pubDate>Wed, 27 Jan 2016 10:42:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.20min.ch/diashow/159892/159892-e6e72bc68dc096deb35d2c2b7646dc85.jpg">]]></description>
