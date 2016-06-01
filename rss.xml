@@ -4,11 +4,25 @@
         <description><![CDATA[Webdudes Techblog]]></description>
         <link>https://thegrid.ai/webdude/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 10:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 20:47:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/webdude/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://agatha.beta3.ch/wp-content/uploads/2015/11/IMG_26701.jpg">]]></description>
+            <link>https://thegrid.ai/webdude/5397c181-670c-4344-85fd-3afe0a304fce/index.html</link>
+            <guid isPermaLink="false">5397c181-670c-4344-85fd-3afe0a304fce</guid>
+            <pubDate>Wed, 01 Jun 2016 20:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frauenstadtrundgang]]></title>
+            <description><![CDATA[<article><h1>Frauenstadtrundgang</h1><img src="http://agatha.beta3.ch/wp-content/uploads/2015/02/images-cms-image-004606031.jpg"></article>]]></description>
+            <link>http://agatha.beta3.ch/?p=27</link>
+            <guid isPermaLink="false">d5fd765c-deea-4ac8-85f7-78aeb12e78c8</guid>
+            <pubDate>Wed, 01 Jun 2016 20:47:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mocks Aren't Stubs]]></title>
-            <description><![CDATA[<article><h1>Mocks Aren't Stubs</h1><p>I first came across the term "mock object" a few years ago in the Extreme Programming (XP) community. Since then I've run into mock objects more and more. Partly this is because many of the leading developers of mock objects have been colleagues of mine at ThoughtWorks at various times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79f5cabb2c2552e35482a168fc37b94f05719c74.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Mocks Aren't Stubs</h1><p>I first came across the term "mock object" a few years ago in the Extreme Programming (XP) community. Since then I've run into mock objects more and more. Partly this is because many of the leading developers of mock objects have been colleagues of mine at ThoughtWorks at various times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e52e405794e2f3bfe7e87c4b6bfd00d8ecff4a06.png"></article>]]></description>
             <link>http://martinfowler.com/articles/mocksArentStubs.html</link>
             <guid isPermaLink="false">20dd7e62-e29c-4b74-a524-bccb548f0842</guid>
             <pubDate>Wed, 27 Jan 2016 10:42:29 GMT</pubDate>
@@ -22,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Colorful]]></title>
-            <description><![CDATA[<article><h1>Colorful</h1><p>This is a colorful image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c4736a085cf92fd6319a5e100b3b4cd115070f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Colorful</h1><p>This is a colorful image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ea85da58537ea7d6312cfc9ca4ed3e6d8f8c939.jpg"></article>]]></description>
             <link>https://thegrid.ai/webdude/colorful/index.html</link>
             <guid isPermaLink="false">a8e84015-689f-45f1-a1b0-cd27300ccdde</guid>
             <pubDate>Fri, 22 Jan 2016 10:29:42 GMT</pubDate>
