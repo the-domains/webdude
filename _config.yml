@@ -1,20 +1,4 @@
-name: Webdude
-favicon: null
-layout_spectrum: 0.36641
 typography_spectrum: 0.54742
-title: Webdudes Techblog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0.4375
   saturation: 0.1875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.36641
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Webdude
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Mocks Aren't Stubs
+    id: 20dd7e62-e29c-4b74-a524-bccb548f0842
+    type: content
+favicon: null
+title: Webdudes Techblog
 purpose: []
